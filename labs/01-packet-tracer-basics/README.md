@@ -1,6 +1,6 @@
 # Lab 01 — Packet Tracer Basics (Tooling)
 
-**Source:** Jeremy’s IT Lab — <Day 1 / Free CCNA | Packet Tracer Introduction | Day 1 Lab | CCNA 200-301 Complete Course>  
+**Source:** Jeremy’s IT Lab — <Day 1 / [Free CCNA | Packet Tracer Introduction | Day 1 Lab | CCNA 200-301 Complete Course](https://www.youtube.com/watch?v=a1Im6GYaSno)>  
 **Date:** <2026-02-12>  
 **Time:** 5 minutes  
 **Artifact:** N/A
