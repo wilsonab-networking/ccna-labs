@@ -1,2 +1,46 @@
 # ccna-labs
-A collection of Packet Tracer lab writeups as I study for the CCNA. Based on the Jeremy's IT Labs course.
+
+# Networking Labs (CCNA / Packet Tracer)
+
+This repo contains hands-on networking labs completed while studying for CCNA 200-301 (v1.1).
+Focus: building, verifying, and troubleshooting small networks (not just following steps). Lab scenarios are taken from the [Jeremy's IT Lab CCNA 200-301 study playlist on YouTube.](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
+
+## What you'll find here
+- Packet Tracer (.pkt) files for each lab
+- A short writeup per lab (goal, topology, key configs, verification, break/fix notes)
+- Screenshots and command outputs where relevant
+
+## Lab index
+| Lab | Topic | What it demonstrates | Artifacts |
+|---|---|---|---|
+| 01 | IPv4 addressing & basic connectivity | IP plan, default gateway logic, verification workflow | `labs/01_ipv4_basics/` |
+
+
+## How to use this repo
+1. Install Cisco Packet Tracer.
+2. Open the `.pkt` file in each lab folder.
+3. Read the lab writeup (`README.md` inside the lab folder) for:
+   - IP plan / topology
+   - config highlights
+   - verification checklist
+   - break/fix scenario and troubleshooting notes
+
+## Verification workflow (used across labs)
+Common checks include:
+- `show ip interface brief`
+- `show vlan brief`
+- `show interfaces trunk`
+- `show spanning-tree`
+- `show ip route`
+- `show ip ospf neighbor`
+- `show access-lists`
+- `ping`, `traceroute`
+
+## Repo structure
+- `labs/` → one folder per lab
+- `images/` or `screenshots/` → screenshots used in writeups
+- `templates/` → lab writeup template
+
+## Notes
+These labs are intentionally small and repeatable. Each lab includes at least one "break/fix" case
+to practice troubleshooting rather than only configuration.
