@@ -9,7 +9,7 @@
 - Created a simple topology, recreating a diagram in a lesson video.
 
 ## Proof (minimum)
-- Screenshot: ![Topology screenshot](.\screenshots\01-proof.png)
+- Screenshot: ![Topology screenshot](./screenshots/01-proof.png)
 
 ## Notes
 - Learned where to find devices and how to connect them.
