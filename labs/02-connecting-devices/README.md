@@ -9,7 +9,7 @@
 - Selected the appropriate cables to connect networking devices accounting for range and MDI/MDI-X device configuration
 
 ## Proof (minimum)
-- Screenshot: ![Cabling screenshot](./)
+- Screenshot: ![Cabling screenshot](./screenshots/02-proof.png)
 
 ## Notes
 - I learned more about how Packet Tracer simulates connections and what many of the visual indicators mean. I've already memorized the content and found this lab unchallenging. I'm hoping the practical aspect of this course gets more interesting as things move along and I can do full incident writeups later.
