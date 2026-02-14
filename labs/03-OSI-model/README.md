@@ -2,7 +2,7 @@
 
 **Source:** Jeremy’s IT Lab — <Day 3 / [Free CCNA | OSI Model | Day 3 Lab | CCNA 200-301 Complete Course](https://www.youtube.com/watch?v=7nmYoL0t2tU)>  
 **Date:** <2026-02-14>  
-**Time:**   5 minutes
+**Time:**   5 minutes  
 **Artifact:** N/A
 
 ## What I did
