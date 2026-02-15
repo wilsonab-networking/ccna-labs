@@ -16,7 +16,7 @@
     - Saved configurations to startup-config using "R1/SW1(config)# do write"
 
 ## Proof (minimum) 
-- Screenshot: - Screenshot: ![CLI screenshot](./screenshots/04-proof.png) 
+- Screenshot: ![CLI screenshot](./screenshots/04-proof.png) 
 
 ## Notes
 - This is the first lab that I felt was worth doing. I had studied CLI basics and could recall commands enough to get through my Anki flashcards, but actually using them really helped commit them to memory. This wasn't super difficult since I'm used to navigating the Terminal in Linux, but it helped.
