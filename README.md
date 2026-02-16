@@ -18,7 +18,7 @@ Focus: building, verifying, and troubleshooting small networks (not just followi
 
 ## How to use this repo
 1. Install Cisco Packet Tracer.
-2. Open the `.pkt` file in each lab folder.
+2. Open the `.pkt` file in each lab folder, if available.
 3. Read the lab writeup (`README.md` inside the lab folder) for:
    - IP plan / topology
    - config highlights
@@ -42,5 +42,7 @@ Common checks include:
 - `templates/` → lab writeup template
 
 ## Notes
-These labs are intentionally small and repeatable. Each lab includes at least one "break/fix" case
-to practice troubleshooting rather than only configuration.
+- These labs are intentionally small and repeatable. 
+- Most labs includes at least one "break/fix" case to practice troubleshooting rather than only configuration.
+- Earlier labs are more about understanding the fundamentals of a topic and learning Cisco's system. If there is no issue to solve, I will not include .pkt files and lab reports will look more like study logs.
+- Jeremy's lab videos are full walkthroughs. I do not watch them in the course of doing each lab.
