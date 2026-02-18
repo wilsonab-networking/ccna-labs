@@ -44,5 +44,5 @@ Common checks include:
 ## Notes
 - These labs are intentionally small and repeatable. 
 - Most labs includes at least one "break/fix" case to practice troubleshooting rather than only configuration.
-- Earlier labs are more about understanding the fundamentals of a topic and learning Cisco's system. If there is no issue to solve, I will not include .pkt files and lab reports will look more like study logs.
+- Earlier labs are more about understanding the fundamentals of a topic and learning Cisco's system. If there is no issue to solve, I will not include .pkt files and lab reports will look more like study logs. Files are included starting from Lab 6.
 - Jeremy's lab videos are full walkthroughs. I do not watch them in the course of doing each lab.
