@@ -1,6 +1,6 @@
 # Lab 06 — [Configuring IP Addresses]
 
-**Source:** Jeremy’s IT Lab — <Days 7 & 8 / [Free CCNA | Configuring IP Addresses | Day 8 Lab | CCNA 200-301 Complete Course](https://www.youtube.com/watch?v=e1jbvyMeS5I)>
+**Source:** Jeremy’s IT Lab — <Days 7 & 8 / [Free CCNA | Configuring IP Addresses | Day 8 Lab | CCNA 200-301 Complete Course](https://www.youtube.com/watch?v=e1jbvyMeS5I)> 
 **Date:** <2026-02-18>  
 **Time:**   15 minutes
 **Artifact:** 
