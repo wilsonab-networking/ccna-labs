@@ -18,13 +18,17 @@
 
 ## Proof (minimum)
 
-R1 config: ![router 1 configuration](./screenshots/r1.png)
+R1 config:  
+![router 1 configuration](./screenshots/r1.png)
 
-SW1 config: ![switch 1 configuration](./screenshots/sw1.png)
+SW1 config:  
+![switch 1 configuration](./screenshots/sw1.png)
 
-SW2 config: ![switch 2 configuration](./screenshots/sw2.png)
+SW2 config:  
+![switch 2 configuration](./screenshots/sw2.png)
 
-Pingtest: ![ping test screenshot](./screenshots/pingtest.png)
+Pingtest:  
+![ping test screenshot](./screenshots/pingtest.png)
 
 
 ## Notes
