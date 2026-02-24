@@ -8,15 +8,15 @@
 ## What I did
 
 - Checked ip route on each router.
--- R1
---- Next hop IP is incorrect. Currently 192.168.12.3; should be 192.168.12.2
----- Removed incorrect address and added correct address
--- R2
---- Static route into 192.168.3.0 is going out of g0/0, should be g0/1
----- Removed incorrect interface and added correct interface
---R3 
---- No static route configured at all
----- Configured route to 192.168.1.0 via 192.168.13.0
+- - R1
+- - - Next hop IP is incorrect. Currently 192.168.12.3; should be 192.168.12.2
+- - - - Removed incorrect address and added correct address
+- - R2
+- - - Static route into 192.168.3.0 is going out of g0/0, should be g0/1
+- - - - Removed incorrect interface and added correct interface
+- -R3 
+- - - No static route configured at all
+- - - - Configured route to 192.168.1.0 via 192.168.13.0
 - Ping PC1 > PC2 unsuccessful. (100% packet loss)
 - Ping PC2 > PC1 unsuccessful ("Destination host unreachable")
 - Ran tracert from PC1 to PC2. Packets making it to R2 then dropping.
