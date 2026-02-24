@@ -34,4 +34,4 @@ PC2 pings PC1:
 
 
 ## Notes
-- Finally a puzzle. Pretty simple, but a good reminder to pay attention to detail. I focused too much on R3 not having a default gateway that I didn't notice its g0/0 address was incorrect. Had a lot of fun. 
+- Finally a puzzle. Pretty simple, but a good reminder to pay attention to detail. I focused too much on R3 not having a static route that I didn't notice its g0/0 address was incorrect. Had a lot of fun. 
