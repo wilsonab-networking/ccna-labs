@@ -22,7 +22,7 @@ R1 routing table:
 R2 routing table:  
 ![r2 routing table](./screenshots/r2-route.png)
 
-R3 routing table: 
+R3 routing table:  
 ![r3 routing table](./screenshots/r3-route.png)
 
 ## Notes
