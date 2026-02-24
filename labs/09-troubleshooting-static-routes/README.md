@@ -14,7 +14,7 @@
 - - R2
 - - - Static route into 192.168.3.0 is going out of g0/0, should be g0/1
 - - - - Removed incorrect interface and added correct interface
-- -R3 
+- - R3 
 - - - No static route configured at all
 - - - - Configured route to 192.168.1.0 via 192.168.13.0
 - Ping PC1 > PC2 unsuccessful. (100% packet loss)
